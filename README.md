@@ -132,3 +132,6 @@ contribute:
 
 For the list of people who've put work into PHP, please see the
 [PHP credits page](https://php.net/credits.php).
+
+for install all extesion php using ubuntu or wsl2 in windows
+sudo apt install openssl php-common php-curl php-json php-mbstring php-mysql php-xml php-zip
